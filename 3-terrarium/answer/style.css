@@ -1,5 +1,6 @@
 body {
     font-family: helvetica, arial, sans-serif;
+    background-color: white;
 }
 
 h1 {
@@ -71,13 +72,13 @@ h1 {
 }
 
 .dirt {
-    width: 60%;
+    width: 55%;
     height: 10%;
     background: #3a241d;
     position: absolute;
     border-radius: 0 0 5em 5em;
     bottom: 0.5%;
-    left: 20%;
+    left: 22%;
     opacity: 0.7;
     z-index: -1;
 }
