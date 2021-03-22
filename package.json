@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EliasAgg/Web-Dev-For-Beginners/issues"
   },
-  "homepage": "https://github.com/EliasAgg/Web-Dev-For-Beginners#readme"
+  "homepage": "https://github.com/EliasAgg/Web-Dev-For-Beginners#readme",
+  "dependencies": {
+    "docsify": "^4.12.1"
+  }
 }
