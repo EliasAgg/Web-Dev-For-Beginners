@@ -29,6 +29,7 @@ function dragElement(terrariumElement) {
         document.onpointerup = stopElementDrag;
     }
     function elementDrag(e) {
+        e.preventDefault();
         pos1 = pos3 - e.clientX;
         pos2 = pos4 - e.clientY;
         pos3 = e.clientX;
